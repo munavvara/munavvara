@@ -4,6 +4,10 @@
 	pom.xml
 	src
 
+mvn compile
+
+mvn assembly:single
+
 ## Resources for creating DB
 data:
 
